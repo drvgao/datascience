@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# local dir
+datacleaning/
+freecodecamp/
+readdata/
+
 # Distribution / packaging
 .Python
 build/
